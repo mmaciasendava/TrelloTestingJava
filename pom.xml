@@ -24,7 +24,7 @@
         <testng.version>7.1.0</testng.version>
         <restassured.version>4.3.0</restassured.version>
         <jackson.version>2.11.0</jackson.version>
-        <jackson.db.version>2.11.0</jackson.db.version>
+        <jackson.db.version>2.12.7.1</jackson.db.version>
     </properties>
 
     <dependencyManagement>
